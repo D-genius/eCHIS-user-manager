@@ -1,5 +1,5 @@
 # eCHIS-user-manager
-## user management script for data alignment for uploading users on eCHIS
+## user management script demo for Kilifi north on eCHIS
 
 1. Remove any formatting and capital letters from original csv file before extracting it. Maintain csv headers to required text format in `config.php`
 2. make sure php 8 library is installed globally on machine
